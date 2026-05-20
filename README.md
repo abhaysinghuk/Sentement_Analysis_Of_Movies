@@ -1,6 +1,6 @@
 # Sentement_Analysis_Of_Movies
 
-# Sentiment Analysis Project..
+# Sentiment Analysis Project...
 
 This project focuses on analyzing text data to determine whether the sentiment expressed is positive, negative, or neutral. The goal is to understand how raw text can be processed and used to train machine learning models for classification.
 
